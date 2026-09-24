@@ -1,5 +1,6 @@
+
 <p align="center">
- <img width="220" height="124" alt="charlie-magne" src="https://github.com/user-attachments/assets/bd504988-5e9c-4399-8e97-4f0c22608927" />
+ <img width="220" height="142" alt="fire-jennifer" src="https://github.com/user-attachments/assets/f359b622-f8db-4301-9e95-bd76e4cf6967" />
 
 <p align="center">
   Callout on @Kitandkat500dniuf : WIP
