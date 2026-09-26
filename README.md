@@ -11,5 +11,5 @@
 </p>
 
 <p align="center">
-  Eclipso's reply to hzbin callout: WIP
+  Eclipso's reply to hzbin callout : https://docs.google.com/document/d/1fUs7jrGTdJEUbgC86Vt0VyWQ7SuvVKl6o0ZOXVfpUcU/edit?usp=sharing
 </p>
